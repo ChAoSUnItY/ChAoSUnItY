@@ -1,7 +1,7 @@
 ### ChAoS-UnItY 
 Nothing. Yes. Nothing to say. Go see my projects. :)
 
-![github stats](https://raw.githubusercontent.com/ChAoSUnItY/github-stats/db2c3e7d84dcabbcedcea24473419519df64283d/generated/overview.svg)  
+![github stats](https://raw.githubusercontent.com/ChAoSUnItY/github-stats/db2c3e7d84dcabbcedcea24473419519df64283d/generated/overview.svg)
 
 ![Top Langs](https://raw.githubusercontent.com/ChAoSUnItY/github-stats/db2c3e7d84dcabbcedcea24473419519df64283d/generated/languages.svg)
 
