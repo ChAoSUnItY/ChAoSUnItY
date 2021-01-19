@@ -10,4 +10,4 @@ Nothing. Yes. Nothing to say. Go see my projects. :)
 - Eki Lib - Java
 - Info Is Power - Java
 - CASC - C# / CASC-TS - Typescript / CASC-Rust - Rust
-- SCP-ZH-TR-Bot (aka Mos.aic) - Javascript
+- SCP-ZH-TR-Bot (codename Mos.aic) - Javascript
