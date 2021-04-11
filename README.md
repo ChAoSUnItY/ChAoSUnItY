@@ -1,5 +1,7 @@
 ## ChAoS-UnItY 
-Nothing. Yes. Nothing to say. Go see my projects. :)
+* A programming language designer
+* Guy who likes JVM Langauge family, especailly Kotlin
+* Likes to try out every programming languages
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChAoSUnItY&show_icons=true) ![Top Langs](https://github.com/ChAoSUnItY/github-stats/blob/master/generated/languages.svg)
 
@@ -7,7 +9,11 @@ Nothing. Yes. Nothing to say. Go see my projects. :)
 ------
 ## Featured Repos
 - Eki Mod - Java
-- Eki Lib - Java
 - Info Is Power - Java
-- CASC - C# / CASC-TS - Typescript / CASC-Rust - Rust
+- CASC - C# / CASC-V - V Lang
 - SCP-ZH-TR-Bot (codename Mos.aic) - Javascript
+
+------
+## Contrubites to
+- Jetbrains/swot
+- vlang/v
