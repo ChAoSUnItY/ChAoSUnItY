@@ -15,7 +15,7 @@
 ## Featured Repos
 - [Eki Mod - Java](https://github.com/ChAoSUnItY/EkiMod)
 - [Info Is Power - Java](https://github.com/ChAoSUnItY/InfoIsPower)
-- [CASC - C#](https://github.com/CASC-Lang/CASC) / [CASC-V - V Lang](https://github.com/CASC-Lang/CASC-V) / [CASC-JVM - JVM Languaage](https://github-readme-stats.vercel.app/api?username=ChAoSUnItY&show_icons=true)
+- [CASC - C#](https://github.com/CASC-Lang/CASC) / [CASC-V - V Lang](https://github.com/CASC-Lang/CASC-V) / [CASC-JVM - JVM Languaage](https://github.com/ChAoSUnItY/CASC-JVM)
 - [SCP-ZH-TR-Bot (codename Mos.aic) - Javascript](https://github.com/SCP-ZH-TR-TECH/SCP-zh-tr-discord-bot)
 
 ------
