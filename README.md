@@ -4,7 +4,7 @@
 * Guy who likes JVM Langauge family, especailly Kotlin  
 * Likes to try out every programming languages
 
-* 程式語言設計  
+* 程式語言設計者  
 * 喜歡JVM語言家族 (尤其是Kotlin)  
 * 喜歡嘗試各式程式語言
 
