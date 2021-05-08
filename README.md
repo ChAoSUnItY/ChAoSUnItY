@@ -14,7 +14,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ChAoSUnItY&show_icons=true" width="50%"> ![Top Langs](https://github.com/ChAoSUnItY/github-stats/blob/master/generated/languages.svg)
 
-![Discord](https://img.shields.io/discord/475654902610395146?color=black&label=My%20Discord%20Server&logo=discord&style=for-the-badge)  ![GitHub followers](https://img.shields.io/github/followers/ChAoSUnItY?color=black&logo=github&style=for-the-badge)  ![Twitter Follow](https://img.shields.io/twitter/follow/KyleLin921021?color=black&logo=twitter&style=for-the-badge)
+![Discord](https://img.shields.io/discord/475654902610395146?color=black&label=My%20Discord%20Server&logo=discord&style=for-the-badge)  ![GitHub followers](https://img.shields.io/github/followers/ChAoSUnItY?color=black&logo=github&style=for-the-badge)  ![Twitter Follow](https://img.shields.io/twitter/follow/KyleLin921021?color=black&logo=twitter&style=for-the-badge)![](https://komarev.com/ghpvc/?username=ChAoSUnItY)
 ------
 ## Featured Repos
 - [Eki Mod - Java](https://github.com/ChAoSUnItY/EkiMod)
