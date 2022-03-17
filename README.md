@@ -13,6 +13,14 @@
 ##
 
 <p align="center">
+  <a href="https://wakatime.com/badge/user/7f8c7fc5-6d8e-45ba-9fe7-fb39f849b7b3/project/47bd333f-b19e-4ecb-bff4-77609fc9e85b">
+    <img src="https://wakatime.com/badge/user/7f8c7fc5-6d8e-45ba-9fe7-fb39f849b7b3/project/47bd333f-b19e-4ecb-bff4-77609fc9e85b.svg" alt="wakatime">
+  </a>
+</p>
+
+##
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=ChAoSUnItY&theme=onedark&column=4" />
   </a>
