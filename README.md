@@ -33,7 +33,7 @@
 ## Featured Repos
 - ### [Eki Mod - Java](https://github.com/ChAoSUnItY/EkiMod)
 - ### [Info Is Power - Java](https://github.com/ChAoSUnItY/InfoIsPower)
-- ### [CASC JIT - C#](https://github.com/CASC-Lang/CASC) / [CASC - Kotlin](https://github.com/ChAoSUnItY/CASC-JVM)
+- ### [CASC JIT - C#](https://github.com/CASC-Lang/CASC-JIT) / [CASC - Kotlin](https://github.com/ChAoSUnItY/CASC)
 - ### [SCP-ZH-TR-Bot (codename Mos.aic) - Javascript](https://github.com/SCP-ZH-TR-TECH/SCP-zh-tr-discord-bot)
 
 ## Contrubites to
