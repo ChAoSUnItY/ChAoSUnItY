@@ -12,7 +12,7 @@
 
 ##
 
-![Metrics](https://metrics.lecoq.io/ChAoSUnItY?template=classic&languages=1&isocalendar=1&stars=1&code=1&lines=1&followup=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FTaipei)
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 ## Featured Repos
 - ### [Eki Mod - Java](https://github.com/ChAoSUnItY/EkiMod)
