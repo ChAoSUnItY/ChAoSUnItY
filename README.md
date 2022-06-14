@@ -15,8 +15,8 @@
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 ## Featured Repos
-- ### [Eki Mod - Java](https://github.com/ChAoSUnItY/EkiMod)
-- ### [Info Is Power - Java](https://github.com/ChAoSUnItY/InfoIsPower)
+- ### [Nenggao - Java](https://github.com/ChAoSUnItY/Nenggao)
+- ### [Vaker - V](https://github.com/ChAoSUnItY/vaker)
 - ### [CASC JIT - C#](https://github.com/CASC-Lang/CASC-JIT) / [CASC - Kotlin](https://github.com/CASC-Lang/CASC)
 - ### [SCP-ZH-TR-Bot (codename Mos.aic) - Javascript](https://github.com/SCP-ZH-TR-TECH/SCP-zh-tr-discord-bot)
 
