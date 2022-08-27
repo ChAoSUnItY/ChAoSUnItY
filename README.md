@@ -1,9 +1,9 @@
 ## ChAoS-UnItY 
 
 * A programming language designer  
-* Guy who likes JVM Langauge family, especailly Kotlin  
-* Willing to try out every programming languages
-* Currently active in V Lang Org and CASC Lang Org. Sometimes active in Cleanroom
+* Familiar with JVM Language ecosystem, prefer Kotlin mostly
+* Sometimes appears in conference agenda
+* Currently active in [vlang/v](https://github.com/vlang/v) and [yakou](https://github.com/CASC-Lang/Yakou). Sometimes active in Cleanroom
 
 ## Using
 <p align="center">
