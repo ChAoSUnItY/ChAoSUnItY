@@ -1,9 +1,8 @@
 ## ChAoS-UnItY 
 
-- A programming language designer  
-- Familiar with JVM Language ecosystem, prefer Kotlin mostly
-- Sometimes appears in conference agenda
-- Currently active in [vlang/v](https://github.com/vlang/v) and [yakou](https://github.com/CASC-Lang/Yakou). Sometimes active in Cleanroom
+A CSIE student, who dedicates to compiler-related projects, also mainly researching on compiler field.
+
+Currently researching on JVM bytecode, RISC-V related implementations.
 
 ### Uses
 
@@ -37,7 +36,7 @@
 - - COSCUP 2022 - [JVM Bytecode: A Journey of developement](https://coscup.org/2022/zh-TW/session/ZKKAC9)
 - - Google Devfest 2022 Taipei - [Elegant Kotlin: Trait Enum](https://gdg.community.dev/events/details/google-gdg-taipei-presents-devfest-2022-taipei/)
 
-### Featured Repos
+### Featured Repositories
 - #### [Nenggao - Java](https://github.com/ChAoSUnItY/Nenggao)
 - #### [Vaker - V](https://github.com/ChAoSUnItY/vaker)
 - #### [CASC JIT - C#](https://github.com/CASC-Lang/CASC-JIT) / [CASC - Kotlin](https://github.com/CASC-Lang/CASC)
@@ -46,3 +45,6 @@
 ### Contrubites to
 - #### [Jetbrains/swot](https://github.com/JetBrains/swot)
 - #### [vlang/v](https://github.com/vlang/v)
+
+### My Stats
+![ChAoS UnItY's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChAoSUnItY&show_icons=true&theme=transparent)
