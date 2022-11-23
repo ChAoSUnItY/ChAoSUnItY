@@ -7,7 +7,7 @@
 
 ### Uses
 
-#### Language
+#### Languages
 
 - Java
 - Kotlin
@@ -19,7 +19,7 @@
 - C++
 - V
 
-#### IDE
+#### IDEs
 
 - Vscode
 - Intellij IDEA
