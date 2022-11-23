@@ -15,7 +15,6 @@ Currently researching on JVM bytecode, RISC-V related implementations.
 - JavaScript
 - Rust
 - C
-- C++
 - V
 
 #### IDEs
