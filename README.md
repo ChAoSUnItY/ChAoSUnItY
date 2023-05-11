@@ -2,7 +2,7 @@
 
 A CSIE student, who dedicates to compiler-related projects, also mainly researching on compiler field.
 
-Currently researching on JVM bytecode, RISC-V related implementations.
+Currently researching on JVM bytecode, RISC-V, parser combinator related implementations.
 
 ### Uses
 
