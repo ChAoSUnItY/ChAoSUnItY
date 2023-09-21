@@ -32,4 +32,4 @@ Currently researching on JVM bytecode and compiler related implementations.
 ### Contrubites to
 - #### [Jetbrains/swot](https://github.com/JetBrains/swot)
 - #### [vlang/v](https://github.com/vlang/v)
-- #### [rust-lang/rust](https://github.com/rust-lang/rust
+- #### [rust-lang/rust](https://github.com/rust-lang/rust)
