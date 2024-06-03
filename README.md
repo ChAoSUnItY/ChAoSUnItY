@@ -28,6 +28,7 @@ Currently researching on JVM bytecode and compiler related implementations.
 - #### [Vaker - V](https://github.com/ChAoSUnItY/vaker)
 - #### [Yakou Lang - Kotlin](https://github.com/CASC-Lang/CASC)
 - #### [Ka-Pi - Rust](https://github.com/ChAoSUnItY/Ka-Pi)
+- #### [Sysprog21 - Shecc](https://github.com/sysprog21/shecc)
 
 ### Contrubites to
 - #### [Jetbrains/swot](https://github.com/JetBrains/swot)
