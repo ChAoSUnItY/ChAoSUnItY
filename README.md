@@ -13,7 +13,7 @@ Currently researching on JVM bytecode and compiler related implementations.
 - - [V Lang Org](https://github.com/vlang) member (09/2021 ~ Present)
 - - [Cleanroom Org](https://github.com/CleanroomMC) co-founder (12/2021 ~ Present)
 - - [Taiwan Kotlin User Group](https://taiwan-kotlin-user-group.github.io/) volunteer (2022 ~ Present)
-- - [GDSC FCU](https://gdsc.community.dev/feng-chia-university/) core Member / lead (2022 ~ Present)
+- - [GDSC FCU](https://gdsc.community.dev/feng-chia-university/) core Member (2022 ~ 2023 / 2024 ~ Present) / lead (2023 ~ 2024)
 
 - #### 2021
 - - COSCUP 2021 - [Build Your First JVM Compiler](https://coscup.org/2021/zh-TW/session/P8B7S7)
@@ -22,6 +22,9 @@ Currently researching on JVM bytecode and compiler related implementations.
 - - Google Devfest 2022 Taipei - [Elegant Kotlin: Trait Enum](https://gdg.community.dev/events/details/google-gdg-taipei-presents-devfest-2022-taipei/)
 - #### 2023
 - - COSCUP 2023 - [A deep dive into Constant Dynamic/InvokeDynamic、and INDY](https://coscup.org/2023/zh-TW/session/CDLSBW)
+- #### 2024
+- - JCConf 2024 - [Generic, Fastutil, And Project Valhalla](https://pretalx.com/jcconf-2024/talk/HGR9KH/)
+- - Functional Thursday #99 - Parser Combinator, or: How I learned to stop worrying and love the parsing (Link TBA)
 
 ### Featured Repositories
 - #### [Nenggao - Java](https://github.com/ChAoSUnItY/Nenggao)
