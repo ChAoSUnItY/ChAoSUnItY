@@ -7,7 +7,7 @@ Currently researching on JVM bytecode and compiler related implementations.
 ### [Support my works ☕](https://buymeacoffee.com/chaosunity)
 
 ### GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ChAoSUnItY&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChAoSUnItY)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Experience
 
@@ -17,7 +17,8 @@ Currently researching on JVM bytecode and compiler related implementations.
   - [Taiwan Kotlin User Group](https://taiwan-kotlin-user-group.github.io/) volunteer (2022 ~ Present)
   - [GDSC FCU](https://gdsc.community.dev/feng-chia-university/) core Member (2022 ~ 2023 / 2024 ~ Present) / lead (2023 ~ 2024)
 - #### 2025
-  - CTHPC 2025 - A Minimalist Approach to Building a Self-Hosting, Multi-Target C Optimizing Compiler 
+  - CTHPC 2025 - A Minimalist Approach to Building a Self-Hosting, Multi-Target C Optimizing Compiler
+  - COSCUP 2025 - Bytecode Manipulation Showdown: A breif look of modding in Minecraft
 
 <details>
 
