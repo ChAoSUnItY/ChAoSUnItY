@@ -2,7 +2,7 @@
 
 A CSIE student, who dedicates to compiler-related projects, also mainly researching on compiler field.
 
-Currently researching on JVM bytecode and compiler related implementations.
+Currently researching on programming language theory, formal proving, and compiler related implementations.
 
 ### [Support my works ☕](https://buymeacoffee.com/chaosunity)
 
@@ -14,11 +14,9 @@ Currently researching on JVM bytecode and compiler related implementations.
 - #### Present
   - [V Lang Org](https://github.com/vlang) member (09/2021 ~ Present)
   - [Cleanroom Org](https://github.com/CleanroomMC) co-founder (12/2021 ~ Present)
-  - [Taiwan Kotlin User Group](https://taiwan-kotlin-user-group.github.io/) volunteer (2022 ~ Present)
+  - [Taiwan Kotlin User Group](https://taiwan-kotlin-user-group.github.io/) member (2022 ~ Present)
+- #### Past
   - [GDSC FCU](https://gdsc.community.dev/feng-chia-university/) core Member (2022 ~ 2023 / 2024 ~ Present) / lead (2023 ~ 2024)
-- #### 2025
-  - CTHPC 2025 - A Minimalist Approach to Building a Self-Hosting, Multi-Target C Optimizing Compiler
-  - COSCUP 2025 - Bytecode Manipulation Showdown: A breif look of modding in Minecraft
 
 <details>
 
@@ -36,6 +34,9 @@ Currently researching on JVM bytecode and compiler related implementations.
 - #### 2024
   - JCConf 2024 - [Generic, Fastutil, And Project Valhalla](https://pretalx.com/jcconf-2024/talk/HGR9KH/)
   - Functional Thursday #99 - Parser Combinator, or: How I learned to stop worrying and love the parsing (Link TBA)
+- #### 2025
+  - CTHPC 2025 - A Minimalist Approach to Building a Self-Hosting, Multi-Target C Optimizing Compiler
+  - COSCUP 2025 - Bytecode Manipulation Showdown: A breif look of modding in Minecraft
 
 </details>
 
